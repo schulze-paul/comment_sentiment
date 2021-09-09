@@ -21,7 +21,7 @@ The Youtube comment dataset is a dataset which i manually created where youtube 
 | IMDB | 90 | 10 | 0 | 0 |
 | Youtube | 72 | 8 | 10 | 10 |
 
-We use a mix of the IMDB and youtube data for training the algorithm.
+I use a mix of the IMDB and youtube data for training the algorithm.
 The Train-Dev dataset is from the same distribution as the train dataset and is used to check if the algorithm can generalize to unseen data from the same distribution as the training distribution.
 The validation set and test set are from the target distribution and decide the performance rating of the algorithm
 
